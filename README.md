@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working In **TCS**
 
-- 🌱 I’m currently learning **TestNG Framework, Appium , Cucumber, API Testing**
+- 🌱 I’m currently learning **TestNG Framework, Appium , Cucumber, API Testing,Cucumber,Maven,Page Object Module**
 
 - 📫 How to reach me **saurabhj1414@gmail.com**
 
